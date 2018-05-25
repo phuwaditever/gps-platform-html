@@ -20,5 +20,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git"
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.16",
+    "datatables.net-dt": "^1.10.16"
   }
 }
